@@ -1,0 +1,23 @@
+.hero-heading-1,
+.hero-heading-2 {
+    color: #0a2540;
+    font-family: "DM Serif Display";
+    text-align: center;
+}
+
+.hero-heading-1 {
+    font-size: 5em;
+}
+
+.hero-heading-2 {
+    font-size: 8em;
+
+}
+
+.hero-text {
+    color: #425466;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+}
